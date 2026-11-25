@@ -1,0 +1,14 @@
+{
+  "_aviso": "Valle Vital es una entidad ficticia. Sedes, bases y coordenadas son inventadas (zonas plausibles de Cali y Jamundi); ninguna corresponde a una IPS real. Especialidades tomadas del seed.json de la Act. 4.",
+  "sedes": [
+    {"id": "S1", "nombre": "Sede Centro (ficticia)", "municipio": "Cali", "lat": 3.4516, "lon": -76.5320,
+     "especialidades": {"Medicina general": true, "Pediatria": true}},
+    {"id": "S2", "nombre": "Sede Sur (ficticia)", "municipio": "Cali", "lat": 3.3700, "lon": -76.5300,
+     "especialidades": {"Medicina general": true, "Medicina interna": true}},
+    {"id": "S3", "nombre": "Sede Jamundi (ficticia)", "municipio": "Jamundi", "lat": 3.2620, "lon": -76.5390,
+     "especialidades": {"Medicina general": true}}
+  ],
+  "bases": [
+    {"id": "B1", "nombre": "Base de ambulancias (ficticia)", "lat": 3.4200, "lon": -76.5200}
+  ]
+}

@@ -1,0 +1,3 @@
+# El motor, la API y los experimentos usan SOLO la biblioteca estandar (Python 3.8+).
+# Para los graficos del informe:
+matplotlib>=3.3
