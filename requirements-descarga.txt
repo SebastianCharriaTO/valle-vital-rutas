@@ -1,0 +1,2 @@
+# Solo para scripts/descargar_mapa_cali.py (Python >= 3.11)
+osmnx>=2.0
