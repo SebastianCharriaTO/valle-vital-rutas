@@ -1,0 +1,35 @@
+digraph G {
+rankdir=RL; nodesep=0.1; ranksep=0.4; splines=true;
+node [shape=plain, fontname="Helvetica", fontsize=16];
+edge [fontname="Helvetica", fontsize=15, arrowhead=empty];
+EstrategiaRuta [label=<<table border="1" cellborder="0" cellspacing="0" bgcolor="#FBF1E8"><tr><td><i>«Strategy»</i></td></tr><tr><td><b><i>EstrategiaRuta</i></b></td></tr><tr><td align="left" sides="t" border="1">+ nombre: str<br align="left"/>+ exacta: bool</td></tr><tr><td align="left" sides="t" border="1">+ buscar(grafo, origen, destino): ResultadoBusqueda<br align="left"/>+ expansion(grafo, o, d): ExpansionIterator<br align="left"/># _expandir(): generador</td></tr></table>>];
+BFS [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>BFS</b></td></tr></table>>];
+Dijkstra [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>Dijkstra</b></td></tr></table>>];
+Bidi [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>DijkstraBidireccional</b></td></tr></table>>];
+Multi [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>DijkstraMultidestino</b></td></tr><tr><td align="left" sides="t" border="1">+ destinos: set</td></tr></table>>];
+AEstrella [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>AEstrella</b></td></tr><tr><td align="left" sides="t" border="1">+ heuristica(grafo, t): h(v)</td></tr></table>>];
+ALT [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>ALT</b></td></tr><tr><td align="left" sides="t" border="1">+ landmarks: list<br align="left"/>+ preprocesar()</td></tr></table>>];
+Proxy [label=<<table border="1" cellborder="0" cellspacing="0" bgcolor="#FBF1E8"><tr><td><i>«Proxy» «Cache-Aside»</i></td></tr><tr><td><b>RutaCacheProxy</b></td></tr><tr><td align="left" sides="t" border="1">- real: EstrategiaRuta<br align="left"/>- ttl_s, capacidad (LRU)<br align="left"/>- _por_via: via → claves</td></tr><tr><td align="left" sides="t" border="1">+ obtener(clave, calcular)<br align="left"/>+ notificar(evento, datos)</td></tr></table>>];
+Iter [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><i>«Iterator»</i></td></tr><tr><td><b>ExpansionIterator</b></td></tr><tr><td align="left" sides="t" border="1">+ __next__(): nodo<br align="left"/>+ expandidos: int<br align="left"/>+ resultado</td></tr></table>>];
+Res [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>ResultadoBusqueda</b></td></tr><tr><td align="left" sides="t" border="1">+ costo_s, aristas<br align="left"/>+ expandidos, tiempo_ms</td></tr></table>>];
+Obs [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><i>«interface»</i></td></tr><tr><td><b><i>ObservadorVial</i></b></td></tr><tr><td align="left" sides="t" border="1">+ notificar(evento, datos)</td></tr></table>>];
+Bus [label=<<table border="1" cellborder="0" cellspacing="0" bgcolor="#FBF1E8"><tr><td><i>«Observer: sujeto»</i></td></tr><tr><td><b>BusEventosViales</b></td></tr><tr><td align="left" sides="t" border="1">+ suscribir(o)<br align="left"/>+ publicar(evento, datos)</td></tr></table>>];
+Activas [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>RutasActivas</b></td></tr></table>>];
+Cmd [label=<<table border="1" cellborder="0" cellspacing="0" bgcolor="#FBF1E8"><tr><td><i>«Command»</i></td></tr><tr><td><b><i>Comando</i></b></td></tr><tr><td align="left" sides="t" border="1">+ ejecutar()<br align="left"/>+ deshacer()</td></tr></table>>];
+Cerrar [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>CerrarViaCmd</b></td></tr></table>>];
+Reabrir [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>ReabrirViaCmd</b></td></tr></table>>];
+Calc [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>CalcularRutaCmd</b></td></tr></table>>];
+Inv [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>InvocadorComandos</b></td></tr><tr><td align="left" sides="t" border="1">+ historial, pila<br align="left"/>+ ejecutar(cmd)<br align="left"/>+ deshacer()</td></tr></table>>];
+Elem [label=<<table border="1" cellborder="0" cellspacing="0" bgcolor="#FBF1E8"><tr><td><i>«Composite»</i></td></tr><tr><td><b><i>ElementoRuta</i></b></td></tr><tr><td align="left" sides="t" border="1">+ tiempo_s()<br align="left"/>+ distancia_m()<br align="left"/>+ instrucciones()</td></tr></table>>];
+Tramo [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>Tramo</b></td></tr></table>>];
+Compuesta [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>RutaCompuesta</b></td></tr><tr><td align="left" sides="t" border="1">+ hijos: list</td></tr></table>>];
+Grafo [label=<<table border="1" cellborder="0" cellspacing="0"><tr><td><b>Grafo</b></td></tr><tr><td align="left" sides="t" border="1">+ cerrar_via(via)<br align="left"/>+ reabrir_via(via)</td></tr></table>>];
+BFS -> EstrategiaRuta; Dijkstra -> EstrategiaRuta; Bidi -> EstrategiaRuta; Multi -> EstrategiaRuta; AEstrella -> EstrategiaRuta; ALT -> AEstrella;
+Proxy -> EstrategiaRuta; Proxy -> Obs [style=dashed]; Activas -> Obs [style=dashed];
+Proxy -> EstrategiaRuta [arrowhead=odiamond, label="real", constraint=false];
+EstrategiaRuta -> Iter [arrowhead=vee, style=dashed, label="crea"]; Iter -> Res [arrowhead=vee, style=dashed, constraint=false];
+Bus -> Obs [arrowhead=vee, label="0..*"];
+Cerrar -> Cmd; Reabrir -> Cmd; Calc -> Cmd; Inv -> Cmd [arrowhead=odiamond, label="historial"];
+Cerrar -> Bus [arrowhead=vee, style=dashed, label="publica"]; Cerrar -> Grafo [arrowhead=vee, style=dashed];
+Tramo -> Elem; Compuesta -> Elem; Compuesta -> Elem [arrowhead=diamond, label="hijos 0..*", constraint=false];
+}

@@ -1,0 +1,27 @@
+digraph G {
+rankdir=TB; nodesep=0.12; ranksep=0.3; compound=true; newrank=true;
+node [shape=component, fontname="Helvetica", fontsize=17, style=filled, fillcolor="#ffffff", margin="0.08,0.04"];
+edge [fontname="Helvetica", fontsize=16];
+subgraph cluster_c { label="Clientes"; fontsize=17; fontname="Helvetica-Bold"; style=dashed;
+  vista [label="Vista web\nGET /mapa"]; gestor [label="Gestor de\nreferencia"];
+  gw [label="gateway Act. 4\n(futuro)", style="dashed,filled"]; }
+api [label="rutas.api (http.server)\n/api/rutas · /api/sedes/mejor\n/api/vias/{id}/cerrar", fillcolor="#FBF1E8"];
+subgraph cluster_o { label="Orquestación"; fontsize=17; fontname="Helvetica-Bold"; style=rounded;
+  serv [label="ServicioRutas"]; inv [label="InvocadorComandos\n«Command»"]; sel [label="SelectorSede"]; comp [label="RutaCompuesta\n«Composite»"]; }
+subgraph cluster_n { label="Navegación"; fontsize=17; fontname="Helvetica-Bold"; style=rounded;
+  proxy [label="RutaCacheProxy\n«Proxy» + Cache-Aside", fillcolor="#FBF1E8"];
+  est [label="EstrategiaRuta «Strategy»\nBFS · Dijkstra · Bidireccional\nAEstrella · ALT"];
+  it [label="ExpansionIterator\n«Iterator»"]; }
+subgraph cluster_e { label="Eventos de la red"; fontsize=17; fontname="Helvetica-Bold"; style=rounded;
+  bus [label="BusEventosViales\n«Observer: sujeto»"]; act [label="RutasActivas\n«observador»"]; }
+subgraph cluster_d { label="Datos (puertos y adaptadores)"; fontsize=17; fontname="Helvetica-Bold"; style=rounded;
+  repo [label="RepositorioGrafo\n«puerto»"]; sint [label="GrafoSintetico\nAdapter"];
+  arch [label="GrafoArchivo\nAdapter"]; json [shape=note, label="grafo_cali.json\nsedes.json"];
+  osm [label="descargar_mapa\n_cali.py (OSMnx)", style="dashed,filled"]; }
+vista -> api; gestor -> api; gw -> api [style=dashed];
+api -> serv; serv -> inv; serv -> sel; serv -> comp; inv -> proxy [xlabel="CalcularRutaCmd"]; sel -> proxy;
+proxy -> est [label=" fallo de caché"]; est -> it;
+inv -> bus [label=" CerrarViaCmd"]; bus -> proxy [label=" invalidar", style=dashed, constraint=false]; bus -> act [style=dashed];
+serv -> repo; {rank=same; proxy; bus; repo}
+repo -> sint; repo -> arch; arch -> json; osm -> json [style=dashed, label=" una vez"];
+}

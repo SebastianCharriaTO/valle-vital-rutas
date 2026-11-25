@@ -1,0 +1,31 @@
+digraph G {
+rankdir=TB; nodesep=0.15; ranksep=0.2;
+node [fontname="Helvetica", fontsize=18, shape=box, style="rounded,filled", fillcolor="#ffffff", margin="0.06,0.03"];
+edge [fontname="Helvetica", fontsize=16];
+ini [shape=circle, label="", width=0.3, style=filled, fillcolor=black];
+rec [label="Recibir solicitud\n(origen, especialidad)"];
+val [shape=diamond, label="¿Datos\nválidos?", style=filled, fillcolor="#ffffff"];
+e400 [label="Responder 400"];
+cand [shape=diamond, label="¿Sedes\ncon cupo?", style=filled, fillcolor="#ffffff"];
+e409 [label="Responder 409\n(sin sede)"];
+cache [shape=diamond, label="¿En caché\ny vigente?", style=filled, fillcolor="#FBF1E8"];
+hit [label="Devolver ruta\nguardada (acierto)"];
+estr [label="Elegir estrategia\n(Strategy)", fillcolor="#FBF1E8"];
+busc [label="Buscar: recorrer\nnodos expandidos\n(ExpansionIterator)"];
+hay [shape=diamond, label="¿Ruta\nencontrada?", style=filled, fillcolor="#ffffff"];
+sin [label="Responder \"sin ruta\""];
+guar [label="Guardar en caché\ne indexar vías\n(Cache-Aside)"];
+resp [label="Responder sede,\nruta e instrucciones\n(Composite)"];
+fin [shape=doublecircle, label="", width=0.22, style=filled, fillcolor=black];
+ev [label="Evento: cierre de vía\n(CerrarViaCmd)", fillcolor="#FBF1E8"];
+fork [shape=box, label="", width=2.2, height=0.06, style=filled, fillcolor=black];
+inval [label="Invalidar entradas\nque usan la vía"];
+recal [label="Recalcular rutas\nactivas afectadas"];
+join [shape=box, label="", width=2.2, height=0.06, style=filled, fillcolor=black];
+ini -> rec -> val; val -> e400 [label="no"]; val -> cand [label="sí"];
+cand -> e409 [label="no"]; cand -> cache [label="sí"];
+cache -> hit [label="sí"]; cache -> estr [label="no"]; estr -> busc -> hay;
+hay -> sin [label="no"]; hay -> guar [label="sí"]; guar -> resp; hit -> resp; resp -> fin;
+ev -> fork; fork -> inval; fork -> recal; inval -> join; recal -> join; join -> fin [style=dashed];
+{rank=same; rec; ev}
+}
