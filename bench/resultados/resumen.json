@@ -1,0 +1,309 @@
+{
+ "entorno": {
+  "python": "3.8.20",
+  "so": "Linux-6.18.44-fc-v553-x86_64-with-glibc2.2.5",
+  "cpu": "Intel(R) Xeon(R) Processor",
+  "nucleos": 2,
+  "fecha": "2026-11-17 10:49"
+ },
+ "grafo": {
+  "nombre": "Ciudad sintetica (9942 nodos, semilla 42)",
+  "fuente": "sintetico",
+  "nodos": 9942,
+  "aristas": 23073,
+  "vias": 18810,
+  "vias_cerradas": [],
+  "meta": {
+   "filas": 141,
+   "columnas": 71,
+   "paso_m": 222.4,
+   "semilla": 42,
+   "fila_rio": 49,
+   "arterias_cada": 10
+  }
+ },
+ "metodo": {
+  "pares": 200,
+  "repeticiones": 5,
+  "semilla_pares": 42,
+  "alt_landmarks": 8,
+  "alt_preproceso_s": 0.137
+ },
+ "e1": {
+  "bfs": {
+   "ms_mediana": 3.093,
+   "ms_p95": 5.933,
+   "expandidos_mediana": 5498,
+   "expandidos_p95": 9331,
+   "brecha_media_pct": 31.916,
+   "rutas_optimas_pct": 5.0,
+   "aceleracion_vs_dijkstra": 2.14,
+   "reduccion_expandidos_vs_dijkstra": 0.98
+  },
+  "dijkstra": {
+   "ms_mediana": 6.624,
+   "ms_p95": 13.306,
+   "expandidos_mediana": 5371,
+   "expandidos_p95": 9243,
+   "brecha_media_pct": 0.0,
+   "rutas_optimas_pct": 100.0,
+   "aceleracion_vs_dijkstra": 1.0,
+   "reduccion_expandidos_vs_dijkstra": 1.0
+  },
+  "bidireccional": {
+   "ms_mediana": 4.251,
+   "ms_p95": 10.951,
+   "expandidos_mediana": 2923,
+   "expandidos_p95": 7248,
+   "brecha_media_pct": 0.0,
+   "rutas_optimas_pct": 100.0,
+   "aceleracion_vs_dijkstra": 1.56,
+   "reduccion_expandidos_vs_dijkstra": 1.84
+  },
+  "a_estrella": {
+   "ms_mediana": 3.758,
+   "ms_p95": 11.529,
+   "expandidos_mediana": 2515,
+   "expandidos_p95": 7267,
+   "brecha_media_pct": 0.0,
+   "rutas_optimas_pct": 100.0,
+   "aceleracion_vs_dijkstra": 1.76,
+   "reduccion_expandidos_vs_dijkstra": 2.14
+  },
+  "alt": {
+   "ms_mediana": 0.906,
+   "ms_p95": 5.364,
+   "expandidos_mediana": 286,
+   "expandidos_p95": 1466,
+   "brecha_media_pct": 0.0,
+   "rutas_optimas_pct": 100.0,
+   "aceleracion_vs_dijkstra": 7.31,
+   "reduccion_expandidos_vs_dijkstra": 18.75
+  }
+ },
+ "e2": {
+  "pares": 200,
+  "rutas_mas_lentas_pct": 95.0,
+  "sobrecosto_medio_min": 7.2,
+  "sobrecosto_max_min": 21.83,
+  "brecha_media_pct": 31.9,
+  "brecha_max_pct": 87.9,
+  "viaje_medio_dijkstra_min": 23.1,
+  "tramos_medios_bfs": 71.2,
+  "tramos_medios_dijkstra": 75.9
+ },
+ "e3": {
+  "origenes": 200,
+  "variantes": {
+   "una_pasada": {
+    "ms_mediana": 1.067,
+    "ms_p95": 2.782,
+    "expandidos_mediana": 1206,
+    "coincide_sede_pct": 100.0
+   },
+   "3 x dijkstra": {
+    "ms_mediana": 13.837,
+    "ms_p95": 18.729,
+    "expandidos_mediana": 12284,
+    "coincide_sede_pct": 100.0
+   },
+   "3 x bidireccional": {
+    "ms_mediana": 12.284,
+    "ms_p95": 19.379,
+    "expandidos_mediana": 8697,
+    "coincide_sede_pct": 100.0
+   },
+   "3 x a_estrella": {
+    "ms_mediana": 9.587,
+    "ms_p95": 14.571,
+    "expandidos_mediana": 7010,
+    "coincide_sede_pct": 100.0
+   },
+   "3 x alt": {
+    "ms_mediana": 2.728,
+    "ms_p95": 6.196,
+    "expandidos_mediana": 837,
+    "coincide_sede_pct": 100.0
+   }
+  },
+  "sedes_elegidas": {
+   "S2": 54,
+   "S3": 71,
+   "S1": 75
+  }
+ },
+ "e4": {
+  "consultas": 1000,
+  "zipf_s": 1.1,
+  "puntos_origen": 50,
+  "claves_posibles": 150,
+  "tasa_aciertos_pct": 86.8,
+  "sin_cache_ms_mediana": 0.956,
+  "sin_cache_ms_p95": 3.187,
+  "con_cache_ms_mediana": 0.0046,
+  "con_cache_ms_p95": 1.657,
+  "sin_cache_total_s": 1.252,
+  "con_cache_total_s": 0.208,
+  "acierto_ms_mediana": 0.0045,
+  "fallo_ms_mediana": 1.113,
+  "cierre_con_observer": {
+   "via_cerrada": "A79",
+   "entradas_que_la_usaban": 39,
+   "entradas_en_cache": 83,
+   "invalidadas": 39,
+   "ms_comando_cierre": 20.48,
+   "rutas_activas": 20,
+   "rutas_activas_recalculadas": 9,
+   "recalculo_ms_medio": 2.19,
+   "demora_media_min": 0.14,
+   "consultas_despues": 100,
+   "aciertos_despues": 69,
+   "rutas_obsoletas_servidas": 0
+  },
+  "cierre_sin_observer": {
+   "via_cerrada": "A79",
+   "entradas_que_la_usaban": 39,
+   "entradas_en_cache": 83,
+   "invalidadas": 0,
+   "ms_comando_cierre": 20.83,
+   "rutas_activas": 20,
+   "rutas_activas_recalculadas": 9,
+   "recalculo_ms_medio": 2.3,
+   "demora_media_min": 0.14,
+   "consultas_despues": 100,
+   "aciertos_despues": 89,
+   "rutas_obsoletas_servidas": 50
+  }
+ },
+ "e5": {
+  "pares": 50,
+  "preproceso": [
+   {
+    "nodos": 2485,
+    "aristas": 7795,
+    "carga_s": 0.059,
+    "alt_preproceso_s": 0.057,
+    "alt_memoria_mb": 1.4
+   },
+   {
+    "nodos": 9942,
+    "aristas": 23073,
+    "carga_s": 0.199,
+    "alt_preproceso_s": 0.244,
+    "alt_memoria_mb": 5.59
+   },
+   {
+    "nodos": 39612,
+    "aristas": 83283,
+    "carga_s": 0.871,
+    "alt_preproceso_s": 1.193,
+    "alt_memoria_mb": 22.19
+   }
+  ],
+  "consulta": [
+   {
+    "nodos": 2485,
+    "algoritmo": "dijkstra",
+    "ms_mediana": 1.591,
+    "ms_p95": 3.001,
+    "expandidos_mediana": 1266
+   },
+   {
+    "nodos": 2485,
+    "algoritmo": "bidireccional",
+    "ms_mediana": 0.927,
+    "ms_p95": 2.873,
+    "expandidos_mediana": 662
+   },
+   {
+    "nodos": 2485,
+    "algoritmo": "a_estrella",
+    "ms_mediana": 0.688,
+    "ms_p95": 2.808,
+    "expandidos_mediana": 582
+   },
+   {
+    "nodos": 2485,
+    "algoritmo": "alt",
+    "ms_mediana": 0.27,
+    "ms_p95": 0.906,
+    "expandidos_mediana": 83
+   },
+   {
+    "nodos": 9942,
+    "algoritmo": "dijkstra",
+    "ms_mediana": 7.537,
+    "ms_p95": 13.581,
+    "expandidos_mediana": 5976
+   },
+   {
+    "nodos": 9942,
+    "algoritmo": "bidireccional",
+    "ms_mediana": 4.983,
+    "ms_p95": 9.567,
+    "expandidos_mediana": 3439
+   },
+   {
+    "nodos": 9942,
+    "algoritmo": "a_estrella",
+    "ms_mediana": 4.311,
+    "ms_p95": 12.323,
+    "expandidos_mediana": 3196
+   },
+   {
+    "nodos": 9942,
+    "algoritmo": "alt",
+    "ms_mediana": 1.622,
+    "ms_p95": 5.421,
+    "expandidos_mediana": 389
+   },
+   {
+    "nodos": 39612,
+    "algoritmo": "dijkstra",
+    "ms_mediana": 29.968,
+    "ms_p95": 61.545,
+    "expandidos_mediana": 19756
+   },
+   {
+    "nodos": 39612,
+    "algoritmo": "bidireccional",
+    "ms_mediana": 19.313,
+    "ms_p95": 65.355,
+    "expandidos_mediana": 11512
+   },
+   {
+    "nodos": 39612,
+    "algoritmo": "a_estrella",
+    "ms_mediana": 13.856,
+    "ms_p95": 54.55,
+    "expandidos_mediana": 8915
+   },
+   {
+    "nodos": 39612,
+    "algoritmo": "alt",
+    "ms_mediana": 5.753,
+    "ms_p95": 16.958,
+    "expandidos_mediana": 1113
+   }
+  ]
+ },
+ "e6": {
+  "con_cache": {
+   "solicitudes": 400,
+   "clientes": 8,
+   "errores": 0,
+   "req_s": 362.6,
+   "p50_ms": 4.53,
+   "p95_ms": 12.09
+  },
+  "sin_cache": {
+   "solicitudes": 400,
+   "clientes": 8,
+   "errores": 0,
+   "req_s": 294.3,
+   "p50_ms": 12.9,
+   "p95_ms": 21.32
+  }
+ },
+ "duracion_s": 89.7
+}

@@ -1,0 +1,1001 @@
+origen,variante,ms,expandidos,sede,misma_sede
+5305,una_pasada,0.3487,391,S2,1
+5305,3 x dijkstra,11.3695,10185,S2,1
+5305,3 x bidireccional,5.905,4533,S2,1
+5305,3 x a_estrella,4.6967,3697,S2,1
+5305,3 x alt,1.6948,538,S2,1
+6468,una_pasada,2.2055,2141,S2,1
+6468,3 x dijkstra,17.2212,14229,S2,1
+6468,3 x bidireccional,12.5044,8649,S2,1
+6468,3 x a_estrella,11.1831,8136,S2,1
+6468,3 x alt,3.8407,1239,S2,1
+1186,una_pasada,1.0329,1243,S3,1
+1186,3 x dijkstra,14.5916,13874,S3,1
+1186,3 x bidireccional,20.2582,13495,S3,1
+1186,3 x a_estrella,18.0026,10200,S3,1
+1186,3 x alt,6.1602,1066,S3,1
+1542,una_pasada,1.7191,1178,S3,1
+1542,3 x dijkstra,14.585,13956,S3,1
+1542,3 x bidireccional,18.292,13214,S3,1
+1542,3 x a_estrella,13.3527,10089,S3,1
+1542,3 x alt,3.6194,1048,S3,1
+9548,una_pasada,0.7928,969,S1,1
+9548,3 x dijkstra,12.8002,12186,S1,1
+9548,3 x bidireccional,12.2605,9805,S1,1
+9548,3 x a_estrella,10.1145,7988,S1,1
+9548,3 x alt,2.1154,675,S1,1
+8313,una_pasada,1.3974,1489,S1,1
+8313,3 x dijkstra,15.2386,14187,S1,1
+8313,3 x bidireccional,13.8642,10734,S1,1
+8313,3 x a_estrella,12.7945,9936,S1,1
+8313,3 x alt,3.4507,1215,S1,1
+614,una_pasada,1.0075,1205,S3,1
+614,3 x dijkstra,14.1033,13473,S3,1
+614,3 x bidireccional,20.4373,13535,S3,1
+614,3 x a_estrella,12.6869,10138,S3,1
+614,3 x alt,3.9124,1197,S3,1
+7104,una_pasada,2.347,2170,S1,1
+7104,3 x dijkstra,14.991,14058,S1,1
+7104,3 x bidireccional,12.3953,9065,S1,1
+7104,3 x a_estrella,11.6643,8481,S1,1
+7104,3 x alt,2.2306,763,S1,1
+1144,una_pasada,0.8779,1050,S3,1
+1144,3 x dijkstra,11.9027,11242,S3,1
+1144,3 x bidireccional,10.4137,7951,S3,1
+1144,3 x a_estrella,6.2838,4968,S3,1
+1144,3 x alt,2.5276,873,S3,1
+1486,una_pasada,1.2957,1433,S3,1
+1486,3 x dijkstra,14.5989,14581,S3,1
+1486,3 x bidireccional,19.2475,14633,S3,1
+1486,3 x a_estrella,13.3549,10787,S3,1
+1486,3 x alt,6.1955,1564,S3,1
+6955,una_pasada,1.8116,1824,S1,1
+6955,3 x dijkstra,15.2249,13018,S1,1
+6955,3 x bidireccional,10.5521,7958,S1,1
+6955,3 x a_estrella,9.657,7389,S1,1
+6955,3 x alt,3.0914,997,S1,1
+9264,una_pasada,0.9502,1116,S1,1
+9264,3 x dijkstra,14.7661,12482,S1,1
+9264,3 x bidireccional,14.2231,10013,S1,1
+9264,3 x a_estrella,11.0708,8348,S1,1
+9264,3 x alt,2.6755,656,S1,1
+3657,una_pasada,3.9214,3189,S2,1
+3657,3 x dijkstra,18.2517,15796,S2,1
+3657,3 x bidireccional,15.7333,10491,S2,1
+3657,3 x a_estrella,11.6333,8607,S2,1
+3657,3 x alt,4.8224,1342,S2,1
+1013,una_pasada,0.3994,499,S3,1
+1013,3 x dijkstra,11.5026,10935,S3,1
+1013,3 x bidireccional,12.1099,8558,S3,1
+1013,3 x a_estrella,6.6529,5106,S3,1
+1013,3 x alt,2.376,803,S3,1
+9593,una_pasada,1.7191,1780,S1,1
+9593,3 x dijkstra,14.0436,14019,S1,1
+9593,3 x bidireccional,19.0029,14494,S1,1
+9593,3 x a_estrella,13.0075,10664,S1,1
+9593,3 x alt,6.4415,1876,S1,1
+812,una_pasada,0.3529,465,S3,1
+812,3 x dijkstra,11.0253,11729,S3,1
+812,3 x bidireccional,15.6623,11142,S3,1
+812,3 x a_estrella,9.9461,7751,S3,1
+812,3 x alt,4.2358,1386,S3,1
+763,una_pasada,1.3383,1481,S3,1
+763,3 x dijkstra,15.8573,14248,S3,1
+763,3 x bidireccional,20.0433,14604,S3,1
+763,3 x a_estrella,13.5837,11078,S3,1
+763,3 x alt,3.9828,1258,S3,1
+2181,una_pasada,2.1411,2251,S3,1
+2181,3 x dijkstra,14.9559,15112,S3,1
+2181,3 x bidireccional,16.46,12854,S3,1
+2181,3 x a_estrella,12.8929,10151,S3,1
+2181,3 x alt,4.2939,1248,S3,1
+6867,una_pasada,0.5671,675,S1,1
+6867,3 x dijkstra,10.756,9451,S1,1
+6867,3 x bidireccional,6.7225,5109,S1,1
+6867,3 x a_estrella,4.832,3765,S1,1
+6867,3 x alt,0.9491,294,S1,1
+8858,una_pasada,0.2981,386,S1,1
+8858,3 x dijkstra,11.79,11286,S1,1
+8858,3 x bidireccional,10.3843,7977,S1,1
+8858,3 x a_estrella,8.1225,6363,S1,1
+8858,3 x alt,1.3972,402,S1,1
+9353,una_pasada,0.5534,710,S1,1
+9353,3 x dijkstra,11.7638,11846,S1,1
+9353,3 x bidireccional,11.7668,8699,S1,1
+9353,3 x a_estrella,9.6483,7179,S1,1
+9353,3 x alt,1.7081,542,S1,1
+9179,una_pasada,1.4995,1633,S1,1
+9179,3 x dijkstra,17.1935,13640,S1,1
+9179,3 x bidireccional,19.1347,12498,S1,1
+9179,3 x a_estrella,13.341,10225,S1,1
+9179,3 x alt,4.5621,1251,S1,1
+1688,una_pasada,1.4631,1580,S3,1
+1688,3 x dijkstra,15.3099,14544,S3,1
+1688,3 x bidireccional,19.0701,13430,S3,1
+1688,3 x a_estrella,12.9534,10305,S3,1
+1688,3 x alt,4.4692,1254,S3,1
+9358,una_pasada,0.7528,925,S1,1
+9358,3 x dijkstra,13.1378,12374,S1,1
+9358,3 x bidireccional,11.9613,9245,S1,1
+9358,3 x a_estrella,10.4855,7887,S1,1
+9358,3 x alt,2.1607,690,S1,1
+6101,una_pasada,0.3897,478,S2,1
+6101,3 x dijkstra,12.3341,11305,S2,1
+6101,3 x bidireccional,7.1324,5701,S2,1
+6101,3 x a_estrella,6.5264,5265,S2,1
+6101,3 x alt,2.3162,732,S2,1
+8974,una_pasada,1.3099,1414,S1,1
+8974,3 x dijkstra,14.2549,13168,S1,1
+8974,3 x bidireccional,16.0493,11480,S1,1
+8974,3 x a_estrella,11.8636,9486,S1,1
+8974,3 x alt,2.7527,816,S1,1
+9246,una_pasada,1.5311,1672,S1,1
+9246,3 x dijkstra,14.4456,13746,S1,1
+9246,3 x bidireccional,18.0311,12985,S1,1
+9246,3 x a_estrella,13.764,10335,S1,1
+9246,3 x alt,4.6991,1338,S1,1
+3374,una_pasada,3.7108,3468,S2,1
+3374,3 x dijkstra,16.756,15501,S2,1
+3374,3 x bidireccional,13.7478,10625,S2,1
+3374,3 x a_estrella,10.3066,8603,S2,1
+3374,3 x alt,4.2058,1288,S2,1
+8711,una_pasada,0.1754,223,S1,1
+8711,3 x dijkstra,11.8727,11129,S1,1
+8711,3 x bidireccional,12.0368,7896,S1,1
+8711,3 x a_estrella,8.1956,6147,S1,1
+8711,3 x alt,1.2051,384,S1,1
+5146,una_pasada,1.4475,1582,S2,1
+5146,3 x dijkstra,14.6491,12789,S2,1
+5146,3 x bidireccional,13.5913,7473,S2,1
+5146,3 x a_estrella,7.3293,5906,S2,1
+5146,3 x alt,4.3057,1462,S2,1
+9593,una_pasada,1.6852,1780,S1,1
+9593,3 x dijkstra,14.5386,14019,S1,1
+9593,3 x bidireccional,19.3792,14494,S1,1
+9593,3 x a_estrella,14.5711,10664,S1,1
+9593,3 x alt,7.2059,1876,S1,1
+5924,una_pasada,1.6896,1687,S2,1
+5924,3 x dijkstra,15.6172,12862,S2,1
+5924,3 x bidireccional,11.0365,7787,S2,1
+5924,3 x a_estrella,7.5984,6346,S2,1
+5924,3 x alt,3.6819,1262,S2,1
+4070,una_pasada,1.8478,1855,S2,1
+4070,3 x dijkstra,14.3714,14259,S2,1
+4070,3 x bidireccional,9.9034,7636,S2,1
+4070,3 x a_estrella,8.1063,6651,S2,1
+4070,3 x alt,2.7507,946,S2,1
+3999,una_pasada,2.0156,2083,S2,1
+3999,3 x dijkstra,15.2343,14356,S2,1
+3999,3 x bidireccional,10.7266,7808,S2,1
+3999,3 x a_estrella,8.4175,6715,S2,1
+3999,3 x alt,3.0264,970,S2,1
+9411,una_pasada,0.6558,806,S1,1
+9411,3 x dijkstra,13.831,11944,S1,1
+9411,3 x bidireccional,11.9748,9292,S1,1
+9411,3 x a_estrella,10.1993,7582,S1,1
+9411,3 x alt,1.8039,588,S1,1
+8604,una_pasada,1.2341,1349,S1,1
+8604,3 x dijkstra,16.9971,13796,S1,1
+8604,3 x bidireccional,14.5345,10888,S1,1
+8604,3 x a_estrella,12.4167,9642,S1,1
+8604,3 x alt,3.0886,1072,S1,1
+5627,una_pasada,1.2671,1407,S2,1
+5627,3 x dijkstra,15.7556,15084,S2,1
+5627,3 x bidireccional,11.7594,9191,S2,1
+5627,3 x a_estrella,10.2322,8434,S2,1
+5627,3 x alt,5.5704,1887,S2,1
+4717,una_pasada,1.7024,1614,S2,1
+4717,3 x dijkstra,16.3286,15518,S2,1
+4717,3 x bidireccional,14.0554,9873,S2,1
+4717,3 x a_estrella,11.2551,8169,S2,1
+4717,3 x alt,6.2087,1765,S2,1
+1934,una_pasada,0.2424,295,S3,1
+1934,3 x dijkstra,11.4509,10388,S3,1
+1934,3 x bidireccional,8.8428,6559,S3,1
+1934,3 x a_estrella,4.5784,3656,S3,1
+1934,3 x alt,1.5907,595,S3,1
+6850,una_pasada,2.028,2067,S1,1
+6850,3 x dijkstra,12.4967,12293,S1,1
+6850,3 x bidireccional,9.7342,7721,S1,1
+6850,3 x a_estrella,7.5168,6465,S1,1
+6850,3 x alt,2.5503,814,S1,1
+5604,una_pasada,0.0714,92,S2,1
+5604,3 x dijkstra,11.5424,10679,S2,1
+5604,3 x bidireccional,6.1953,4816,S2,1
+5604,3 x a_estrella,5.4171,4367,S2,1
+5604,3 x alt,1.6096,534,S2,1
+8011,una_pasada,0.144,191,S1,1
+8011,3 x dijkstra,12.3702,10874,S1,1
+8011,3 x bidireccional,9.6147,7241,S1,1
+8011,3 x a_estrella,7.5827,5810,S1,1
+8011,3 x alt,1.2393,386,S1,1
+642,una_pasada,1.0565,1235,S3,1
+642,3 x dijkstra,11.4974,11628,S3,1
+642,3 x bidireccional,11.727,9179,S3,1
+642,3 x a_estrella,7.1916,5835,S3,1
+642,3 x alt,3.2896,1129,S3,1
+9143,una_pasada,0.4116,502,S1,1
+9143,3 x dijkstra,13.7301,11432,S1,1
+9143,3 x bidireccional,11.4513,8165,S1,1
+9143,3 x a_estrella,9.0071,6514,S1,1
+9143,3 x alt,1.9749,442,S1,1
+5140,una_pasada,1.637,1603,S2,1
+5140,3 x dijkstra,17.5696,16012,S2,1
+5140,3 x bidireccional,13.234,10204,S2,1
+5140,3 x a_estrella,10.9601,8735,S2,1
+5140,3 x alt,6.6731,2186,S2,1
+5737,una_pasada,0.1617,177,S2,1
+5737,3 x dijkstra,10.1656,9297,S2,1
+5737,3 x bidireccional,4.7935,3726,S2,1
+5737,3 x a_estrella,3.8427,2987,S2,1
+5737,3 x alt,1.0682,299,S2,1
+8137,una_pasada,0.1554,138,S1,1
+8137,3 x dijkstra,11.2649,11227,S1,1
+8137,3 x bidireccional,10.6175,8158,S1,1
+8137,3 x a_estrella,8.8461,6522,S1,1
+8137,3 x alt,1.4578,446,S1,1
+7474,una_pasada,1.8618,1871,S1,1
+7474,3 x dijkstra,16.3327,13461,S1,1
+7474,3 x bidireccional,16.28,10417,S1,1
+7474,3 x a_estrella,12.5754,8466,S1,1
+7474,3 x alt,5.1035,1298,S1,1
+1533,una_pasada,0.431,559,S3,1
+1533,3 x dijkstra,17.2759,12758,S3,1
+1533,3 x bidireccional,16.6627,11982,S3,1
+1533,3 x a_estrella,11.5047,9045,S3,1
+1533,3 x alt,3.2108,871,S3,1
+7767,una_pasada,1.3032,1275,S1,1
+7767,3 x dijkstra,13.6937,12857,S1,1
+7767,3 x bidireccional,12.535,9684,S1,1
+7767,3 x a_estrella,10.289,8173,S1,1
+7767,3 x alt,2.3996,704,S1,1
+994,una_pasada,1.202,1284,S3,1
+994,3 x dijkstra,14.3781,11797,S3,1
+994,3 x bidireccional,16.9692,9427,S3,1
+994,3 x a_estrella,8.7752,6051,S3,1
+994,3 x alt,5.4038,1401,S3,1
+9469,una_pasada,1.3161,1346,S1,1
+9469,3 x dijkstra,17.1413,12939,S1,1
+9469,3 x bidireccional,16.8898,11242,S1,1
+9469,3 x a_estrella,13.6823,9160,S1,1
+9469,3 x alt,3.8667,760,S1,1
+4662,una_pasada,1.3975,1133,S2,1
+4662,3 x dijkstra,14.6129,10917,S2,1
+4662,3 x bidireccional,9.7168,5400,S2,1
+4662,3 x a_estrella,6.5846,4351,S2,1
+4662,3 x alt,2.4401,853,S2,1
+5685,una_pasada,0.5125,634,S2,1
+5685,3 x dijkstra,15.2789,13110,S2,1
+5685,3 x bidireccional,9.6285,6951,S2,1
+5685,3 x a_estrella,8.433,6579,S2,1
+5685,3 x alt,3.0571,1007,S2,1
+7564,una_pasada,0.8763,1032,S1,1
+7564,3 x dijkstra,13.2391,11979,S1,1
+7564,3 x bidireccional,11.8545,8245,S1,1
+7564,3 x a_estrella,8.9287,6650,S1,1
+7564,3 x alt,1.8219,595,S1,1
+2753,una_pasada,2.4918,2457,S3,1
+2753,3 x dijkstra,13.7098,11778,S3,1
+2753,3 x bidireccional,8.9277,6786,S3,1
+2753,3 x a_estrella,6.2187,4957,S3,1
+2753,3 x alt,2.8549,887,S3,1
+8088,una_pasada,0.4671,549,S1,1
+8088,3 x dijkstra,14.2027,12211,S1,1
+8088,3 x bidireccional,14.7003,8516,S1,1
+8088,3 x a_estrella,10.001,7542,S1,1
+8088,3 x alt,1.5563,517,S1,1
+3575,una_pasada,2.6994,2703,S2,1
+3575,3 x dijkstra,16.8461,14587,S2,1
+3575,3 x bidireccional,12.7172,8482,S2,1
+3575,3 x a_estrella,9.4629,7251,S2,1
+3575,3 x alt,3.3812,1032,S2,1
+2119,una_pasada,1.7216,1708,S3,1
+2119,3 x dijkstra,12.5871,11846,S3,1
+2119,3 x bidireccional,11.0759,8083,S3,1
+2119,3 x a_estrella,6.6292,5406,S3,1
+2119,3 x alt,3.6174,1275,S3,1
+6519,una_pasada,0.8728,988,S2,1
+6519,3 x dijkstra,11.4237,10403,S2,1
+6519,3 x bidireccional,6.6779,5308,S2,1
+6519,3 x a_estrella,5.8347,4633,S2,1
+6519,3 x alt,1.811,567,S2,1
+8134,una_pasada,0.2152,261,S1,1
+8134,3 x dijkstra,13.2631,11553,S1,1
+8134,3 x bidireccional,12.2274,8702,S1,1
+8134,3 x a_estrella,9.543,7081,S1,1
+8134,3 x alt,1.6488,498,S1,1
+2725,una_pasada,2.3016,2390,S3,1
+2725,3 x dijkstra,14.2923,14162,S3,1
+2725,3 x bidireccional,12.7638,10043,S3,1
+2725,3 x a_estrella,9.6528,7975,S3,1
+2725,3 x alt,2.8074,866,S3,1
+6580,una_pasada,0.7308,838,S2,1
+6580,3 x dijkstra,9.9954,9761,S2,1
+6580,3 x bidireccional,6.1239,4851,S2,1
+6580,3 x a_estrella,4.8073,3783,S2,1
+6580,3 x alt,1.2524,393,S2,1
+4552,una_pasada,0.5625,719,S2,1
+4552,3 x dijkstra,12.1875,12095,S2,1
+4552,3 x bidireccional,7.3971,5659,S2,1
+4552,3 x a_estrella,6.1678,4944,S2,1
+4552,3 x alt,2.4047,789,S2,1
+7053,una_pasada,2.2422,2285,S1,1
+7053,3 x dijkstra,15.8832,13323,S1,1
+7053,3 x bidireccional,12.2867,9304,S1,1
+7053,3 x a_estrella,9.6691,7771,S1,1
+7053,3 x alt,4.1105,1253,S1,1
+4561,una_pasada,0.9324,1124,S2,1
+4561,3 x dijkstra,15.745,13927,S2,1
+4561,3 x bidireccional,13.0687,7382,S2,1
+4561,3 x a_estrella,10.0283,6544,S2,1
+4561,3 x alt,4.2563,1439,S2,1
+5878,una_pasada,0.4075,291,S2,1
+5878,3 x dijkstra,10.6834,9298,S2,1
+5878,3 x bidireccional,5.0241,3873,S2,1
+5878,3 x a_estrella,3.93,3061,S2,1
+5878,3 x alt,0.9422,298,S2,1
+3780,una_pasada,1.8561,1900,S2,1
+3780,3 x dijkstra,13.3911,13098,S2,1
+3780,3 x bidireccional,8.3667,6508,S2,1
+3780,3 x a_estrella,6.5945,5441,S2,1
+3780,3 x alt,1.7475,606,S2,1
+1359,una_pasada,0.6854,826,S3,1
+1359,3 x dijkstra,10.8129,10868,S3,1
+1359,3 x bidireccional,9.3288,7218,S3,1
+1359,3 x a_estrella,5.5675,4303,S3,1
+1359,3 x alt,1.8802,646,S3,1
+2478,una_pasada,1.5919,1663,S3,1
+2478,3 x dijkstra,12.424,11118,S3,1
+2478,3 x bidireccional,8.4083,6221,S3,1
+2478,3 x a_estrella,5.1286,4092,S3,1
+2478,3 x alt,2.03,719,S3,1
+3822,una_pasada,1.5814,1636,S2,1
+3822,3 x dijkstra,10.8665,10732,S2,1
+3822,3 x bidireccional,6.3151,5003,S2,1
+3822,3 x a_estrella,4.7983,3921,S2,1
+3822,3 x alt,2.0275,724,S2,1
+7945,una_pasada,0.5702,725,S1,1
+7945,3 x dijkstra,13.5947,12072,S1,1
+7945,3 x bidireccional,10.9016,8042,S1,1
+7945,3 x a_estrella,9.7394,6988,S1,1
+7945,3 x alt,1.529,508,S1,1
+2987,una_pasada,0.7707,913,S3,1
+2987,3 x dijkstra,11.871,10277,S3,1
+2987,3 x bidireccional,7.0324,5257,S3,1
+2987,3 x a_estrella,4.0523,3257,S3,1
+2987,3 x alt,1.3926,523,S3,1
+4619,una_pasada,0.2975,405,S2,1
+4619,3 x dijkstra,11.6176,11164,S2,1
+4619,3 x bidireccional,6.1685,4768,S2,1
+4619,3 x a_estrella,5.1859,4196,S2,1
+4619,3 x alt,0.9675,364,S2,1
+2386,una_pasada,2.1321,2205,S3,1
+2386,3 x dijkstra,14.5996,14576,S3,1
+2386,3 x bidireccional,15.0471,11715,S3,1
+2386,3 x a_estrella,11.5565,9190,S3,1
+2386,3 x alt,3.2542,980,S3,1
+8758,una_pasada,1.2667,1371,S1,1
+8758,3 x dijkstra,17.2384,13231,S1,1
+8758,3 x bidireccional,16.5613,11398,S1,1
+8758,3 x a_estrella,12.0107,9429,S1,1
+8758,3 x alt,2.6309,743,S1,1
+9278,una_pasada,0.4006,464,S1,1
+9278,3 x dijkstra,11.7747,11374,S1,1
+9278,3 x bidireccional,15.0099,8111,S1,1
+9278,3 x a_estrella,12.3033,6412,S1,1
+9278,3 x alt,1.599,424,S1,1
+2056,una_pasada,1.5945,1637,S3,1
+2056,3 x dijkstra,12.2825,11664,S3,1
+2056,3 x bidireccional,9.9125,7733,S3,1
+2056,3 x a_estrella,6.2935,5172,S3,1
+2056,3 x alt,3.1031,1148,S3,1
+884,una_pasada,0.2656,360,S3,1
+884,3 x dijkstra,11.5831,11829,S3,1
+884,3 x bidireccional,14.9149,11534,S3,1
+884,3 x a_estrella,9.797,8085,S3,1
+884,3 x alt,4.0224,1421,S3,1
+9163,una_pasada,1.2833,1372,S1,1
+9163,3 x dijkstra,15.9743,13638,S1,1
+9163,3 x bidireccional,16.9664,11031,S1,1
+9163,3 x a_estrella,13.9117,9687,S1,1
+9163,3 x alt,3.9017,1247,S1,1
+6521,una_pasada,0.7628,893,S2,1
+6521,3 x dijkstra,12.1236,10493,S2,1
+6521,3 x bidireccional,6.9687,5504,S2,1
+6521,3 x a_estrella,5.9075,4811,S2,1
+6521,3 x alt,1.9099,567,S2,1
+6457,una_pasada,1.1579,1273,S2,1
+6457,3 x dijkstra,13.7808,12099,S2,1
+6457,3 x bidireccional,12.9935,6455,S2,1
+6457,3 x a_estrella,7.6369,6048,S2,1
+6457,3 x alt,2.3529,795,S2,1
+7889,una_pasada,1.5898,1617,S1,1
+7889,3 x dijkstra,16.3314,14053,S1,1
+7889,3 x bidireccional,13.6441,10131,S1,1
+7889,3 x a_estrella,11.7546,9405,S1,1
+7889,3 x alt,2.5621,872,S1,1
+1019,una_pasada,0.2329,308,S3,1
+1019,3 x dijkstra,10.4306,11105,S3,1
+1019,3 x bidireccional,12.9645,10073,S3,1
+1019,3 x a_estrella,7.7291,6301,S3,1
+1019,3 x alt,3.3739,1188,S3,1
+1103,una_pasada,0.3589,481,S3,1
+1103,3 x dijkstra,13.2609,12057,S3,1
+1103,3 x bidireccional,14.9911,11452,S3,1
+1103,3 x a_estrella,10.5814,8354,S3,1
+1103,3 x alt,2.6917,837,S3,1
+7219,una_pasada,0.5943,711,S1,1
+7219,3 x dijkstra,10.8022,10091,S1,1
+7219,3 x bidireccional,7.554,5923,S1,1
+7219,3 x a_estrella,5.5943,4543,S1,1
+7219,3 x alt,1.1959,391,S1,1
+1801,una_pasada,0.1061,147,S3,1
+1801,3 x dijkstra,10.961,11405,S3,1
+1801,3 x bidireccional,11.2796,8780,S3,1
+1801,3 x a_estrella,6.934,5692,S3,1
+1801,3 x alt,2.9945,1069,S3,1
+9842,una_pasada,0.4915,585,S1,1
+9842,3 x dijkstra,11.6907,11515,S1,1
+9842,3 x bidireccional,10.6608,8334,S1,1
+9842,3 x a_estrella,8.9061,6681,S1,1
+9842,3 x alt,1.4574,463,S1,1
+1677,una_pasada,0.9125,1026,S3,1
+1677,3 x dijkstra,14.2503,13402,S3,1
+1677,3 x bidireccional,14.9196,11779,S3,1
+1677,3 x a_estrella,11.3984,9090,S3,1
+1677,3 x alt,3.0173,897,S3,1
+9286,una_pasada,0.5586,682,S1,1
+9286,3 x dijkstra,13.8935,11806,S1,1
+9286,3 x bidireccional,12.3123,8664,S1,1
+9286,3 x a_estrella,9.623,7115,S1,1
+9286,3 x alt,1.6351,521,S1,1
+8791,una_pasada,0.5126,619,S1,1
+8791,3 x dijkstra,11.7825,11878,S1,1
+8791,3 x bidireccional,11.0882,8566,S1,1
+8791,3 x a_estrella,9.1795,7200,S1,1
+8791,3 x alt,1.661,574,S1,1
+5957,una_pasada,0.2254,298,S2,1
+5957,3 x dijkstra,11.4299,10832,S2,1
+5957,3 x bidireccional,6.6768,5313,S2,1
+5957,3 x a_estrella,5.9445,4813,S2,1
+5957,3 x alt,2.0143,675,S2,1
+1152,una_pasada,0.5605,701,S3,1
+1152,3 x dijkstra,10.5715,10846,S3,1
+1152,3 x bidireccional,11.1365,7469,S3,1
+1152,3 x a_estrella,5.6754,4382,S3,1
+1152,3 x alt,1.9162,662,S3,1
+6164,una_pasada,0.2519,289,S2,1
+6164,3 x dijkstra,13.019,9585,S2,1
+6164,3 x bidireccional,6.261,4491,S2,1
+6164,3 x a_estrella,4.8917,3716,S2,1
+6164,3 x alt,1.3793,382,S2,1
+4132,una_pasada,1.1467,1233,S2,1
+4132,3 x dijkstra,13.1315,12682,S2,1
+4132,3 x bidireccional,7.6693,6098,S2,1
+4132,3 x a_estrella,6.3589,5280,S2,1
+4132,3 x alt,1.5909,558,S2,1
+9867,una_pasada,1.261,1350,S1,1
+9867,3 x dijkstra,13.4847,13486,S1,1
+9867,3 x bidireccional,14.738,11813,S1,1
+9867,3 x a_estrella,12.5599,9568,S1,1
+9867,3 x alt,4.1532,1341,S1,1
+7768,una_pasada,1.0504,1207,S1,1
+7768,3 x dijkstra,13.5935,12734,S1,1
+7768,3 x bidireccional,12.6024,9512,S1,1
+7768,3 x a_estrella,9.7283,8037,S1,1
+7768,3 x alt,2.0643,643,S1,1
+1889,una_pasada,1.0635,1221,S3,1
+1889,3 x dijkstra,13.0671,13576,S3,1
+1889,3 x bidireccional,15.6484,11557,S3,1
+1889,3 x a_estrella,11.5565,8944,S3,1
+1889,3 x alt,3.0482,898,S3,1
+7634,una_pasada,0.7593,911,S1,1
+7634,3 x dijkstra,13.4555,12003,S1,1
+7634,3 x bidireccional,10.734,8407,S1,1
+7634,3 x a_estrella,8.5864,6825,S1,1
+7634,3 x alt,1.515,507,S1,1
+7927,una_pasada,0.103,134,S1,1
+7927,3 x dijkstra,11.0625,10733,S1,1
+7927,3 x bidireccional,9.4049,7241,S1,1
+7927,3 x a_estrella,7.0893,5608,S1,1
+7927,3 x alt,1.1364,373,S1,1
+1407,una_pasada,1.2618,1346,S3,1
+1407,3 x dijkstra,14.3687,14331,S3,1
+1407,3 x bidireccional,19.5527,13872,S3,1
+1407,3 x a_estrella,16.0427,10501,S3,1
+1407,3 x alt,5.0457,1267,S3,1
+1674,una_pasada,0.6368,766,S3,1
+1674,3 x dijkstra,13.8209,13060,S3,1
+1674,3 x bidireccional,15.0984,11685,S3,1
+1674,3 x a_estrella,11.1294,8896,S3,1
+1674,3 x alt,2.7638,867,S3,1
+4337,una_pasada,0.6773,841,S2,1
+4337,3 x dijkstra,11.3717,11311,S2,1
+4337,3 x bidireccional,6.2923,4845,S2,1
+4337,3 x a_estrella,5.0385,4080,S2,1
+4337,3 x alt,0.9981,381,S2,1
+2645,una_pasada,1.3024,1370,S3,1
+2645,3 x dijkstra,12.1161,11899,S3,1
+2645,3 x bidireccional,10.0993,7473,S3,1
+2645,3 x a_estrella,6.6274,5394,S3,1
+2645,3 x alt,1.9507,641,S3,1
+378,una_pasada,0.5725,750,S3,1
+378,3 x dijkstra,11.581,11246,S3,1
+378,3 x bidireccional,12.2816,9637,S3,1
+378,3 x a_estrella,7.4081,5926,S3,1
+378,3 x alt,2.9742,1011,S3,1
+8654,una_pasada,0.6667,810,S1,1
+8654,3 x dijkstra,13.0148,12471,S1,1
+8654,3 x bidireccional,12.1374,9009,S1,1
+8654,3 x a_estrella,10.9019,7917,S1,1
+8654,3 x alt,1.8365,650,S1,1
+2401,una_pasada,1.7792,1861,S3,1
+2401,3 x dijkstra,12.0341,11952,S3,1
+2401,3 x bidireccional,10.3352,8093,S3,1
+2401,3 x a_estrella,6.5567,5440,S3,1
+2401,3 x alt,3.6671,1256,S3,1
+443,una_pasada,0.8047,1037,S3,1
+443,3 x dijkstra,10.867,11328,S3,1
+443,3 x bidireccional,10.8639,8695,S3,1
+443,3 x a_estrella,6.5575,5323,S3,1
+443,3 x alt,2.5941,877,S3,1
+4883,una_pasada,0.2923,345,S2,1
+4883,3 x dijkstra,9.6853,9491,S2,1
+4883,3 x bidireccional,4.7502,3786,S2,1
+4883,3 x a_estrella,3.7517,3020,S2,1
+4883,3 x alt,1.1445,381,S2,1
+4278,una_pasada,1.5488,1596,S2,1
+4278,3 x dijkstra,14.0602,14106,S2,1
+4278,3 x bidireccional,9.2831,7202,S2,1
+4278,3 x a_estrella,7.9263,6443,S2,1
+4278,3 x alt,1.9891,717,S2,1
+6008,una_pasada,0.9179,1103,S2,1
+6008,3 x dijkstra,13.3835,11300,S2,1
+6008,3 x bidireccional,7.295,5716,S2,1
+6008,3 x a_estrella,5.7169,4746,S2,1
+6008,3 x alt,1.9842,641,S2,1
+5827,una_pasada,0.8133,987,S2,1
+5827,3 x dijkstra,15.8849,13532,S2,1
+5827,3 x bidireccional,10.4945,7600,S2,1
+5827,3 x a_estrella,9.159,7120,S2,1
+5827,3 x alt,3.2176,1114,S2,1
+8725,una_pasada,0.7046,889,S1,1
+8725,3 x dijkstra,12.8808,12571,S1,1
+8725,3 x bidireccional,11.4803,9145,S1,1
+8725,3 x a_estrella,10.0782,8051,S1,1
+8725,3 x alt,2.0364,713,S1,1
+8236,una_pasada,1.1667,1265,S1,1
+8236,3 x dijkstra,13.3663,13541,S1,1
+8236,3 x bidireccional,12.4638,9958,S1,1
+8236,3 x a_estrella,11.5406,9108,S1,1
+8236,3 x alt,3.1493,1034,S1,1
+3654,una_pasada,3.0105,3015,S2,1
+3654,3 x dijkstra,17.3271,15698,S2,1
+3654,3 x bidireccional,14.5171,10005,S2,1
+3654,3 x a_estrella,10.8072,8415,S2,1
+3654,3 x alt,4.1536,1222,S2,1
+3922,una_pasada,1.5652,1628,S2,1
+3922,3 x dijkstra,14.0257,12944,S2,1
+3922,3 x bidireccional,8.0595,6316,S2,1
+3922,3 x a_estrella,6.4054,5336,S2,1
+3922,3 x alt,1.8754,603,S2,1
+3714,una_pasada,2.2819,2383,S2,1
+3714,3 x dijkstra,15.0746,14435,S2,1
+3714,3 x bidireccional,10.8024,7955,S2,1
+3714,3 x a_estrella,9.6915,6854,S2,1
+3714,3 x alt,3.4117,921,S2,1
+8480,una_pasada,1.0173,1100,S1,1
+8480,3 x dijkstra,14.601,12777,S1,1
+8480,3 x bidireccional,13.1784,10364,S1,1
+8480,3 x a_estrella,10.5908,8695,S1,1
+8480,3 x alt,2.2091,662,S1,1
+5825,una_pasada,0.6462,789,S2,1
+5825,3 x dijkstra,13.453,13287,S2,1
+5825,3 x bidireccional,9.1872,7188,S2,1
+5825,3 x a_estrella,8.2892,6811,S2,1
+5825,3 x alt,3.068,1050,S2,1
+457,una_pasada,0.5218,667,S3,1
+457,3 x dijkstra,11.3786,11755,S3,1
+457,3 x bidireccional,17.7365,11268,S3,1
+457,3 x a_estrella,9.5514,7519,S3,1
+457,3 x alt,4.2011,1459,S3,1
+7737,una_pasada,0.9392,1089,S1,1
+7737,3 x dijkstra,14.1966,12966,S1,1
+7737,3 x bidireccional,11.2883,8760,S1,1
+7737,3 x a_estrella,9.9825,7989,S1,1
+7737,3 x alt,1.7175,566,S1,1
+3172,una_pasada,2.9721,2980,S3,1
+3172,3 x dijkstra,12.6036,12362,S3,1
+3172,3 x bidireccional,10.0324,7833,S3,1
+3172,3 x a_estrella,6.9884,5660,S3,1
+3172,3 x alt,4.0193,1395,S3,1
+5640,una_pasada,1.3738,1413,S2,1
+5640,3 x dijkstra,15.3898,12655,S2,1
+5640,3 x bidireccional,9.7422,7236,S2,1
+5640,3 x a_estrella,7.1408,5953,S2,1
+5640,3 x alt,3.6907,1198,S2,1
+5726,una_pasada,0.6037,751,S2,1
+5726,3 x dijkstra,11.6405,10971,S2,1
+5726,3 x bidireccional,6.5039,5221,S2,1
+5726,3 x a_estrella,5.2184,4328,S2,1
+5726,3 x alt,1.9379,614,S2,1
+1319,una_pasada,0.4221,539,S3,1
+1319,3 x dijkstra,11.9285,12493,S3,1
+1319,3 x bidireccional,14.6263,11738,S3,1
+1319,3 x a_estrella,10.9297,8793,S3,1
+1319,3 x alt,2.7563,881,S3,1
+1673,una_pasada,0.5245,672,S3,1
+1673,3 x dijkstra,12.7639,12648,S3,1
+1673,3 x bidireccional,15.7538,11283,S3,1
+1673,3 x a_estrella,10.7626,8429,S3,1
+1673,3 x alt,2.6527,841,S3,1
+7701,una_pasada,0.8191,1009,S1,1
+7701,3 x dijkstra,12.7176,12371,S1,1
+7701,3 x bidireccional,12.2778,9077,S1,1
+7701,3 x a_estrella,9.9154,7554,S1,1
+7701,3 x alt,1.8469,595,S1,1
+5533,una_pasada,0.0915,92,S2,1
+5533,3 x dijkstra,12.5289,10695,S2,1
+5533,3 x bidireccional,6.2455,4828,S2,1
+5533,3 x a_estrella,5.5947,4380,S2,1
+5533,3 x alt,1.6189,535,S2,1
+7907,una_pasada,1.3928,1445,S1,1
+7907,3 x dijkstra,16.5425,13083,S1,1
+7907,3 x bidireccional,17.1137,10087,S1,1
+7907,3 x a_estrella,10.7772,8491,S1,1
+7907,3 x alt,2.6436,814,S1,1
+7855,una_pasada,0.169,226,S1,1
+7855,3 x dijkstra,11.8866,10985,S1,1
+7855,3 x bidireccional,9.9878,7500,S1,1
+7855,3 x a_estrella,7.5787,5873,S1,1
+7855,3 x alt,1.2418,412,S1,1
+1389,una_pasada,0.288,375,S3,1
+1389,3 x dijkstra,12.6072,12247,S3,1
+1389,3 x bidireccional,15.814,11353,S3,1
+1389,3 x a_estrella,10.8545,8410,S3,1
+1389,3 x alt,2.5574,809,S3,1
+6365,una_pasada,0.865,1003,S2,1
+6365,3 x dijkstra,11.255,10413,S2,1
+6365,3 x bidireccional,6.6405,5242,S2,1
+6365,3 x a_estrella,5.2004,4242,S2,1
+6365,3 x alt,1.3344,396,S2,1
+7832,una_pasada,1.354,1443,S1,1
+7832,3 x dijkstra,14.9955,13150,S1,1
+7832,3 x bidireccional,14.7589,10300,S1,1
+7832,3 x a_estrella,11.3984,8583,S1,1
+7832,3 x alt,2.7794,838,S1,1
+7109,una_pasada,2.6286,2445,S1,1
+7109,3 x dijkstra,17.7958,14725,S1,1
+7109,3 x bidireccional,17.1258,9825,S1,1
+7109,3 x a_estrella,17.5026,9247,S1,1
+7109,3 x alt,8.9134,1673,S1,1
+1421,una_pasada,1.0038,1109,S3,1
+1421,3 x dijkstra,14.1452,11446,S3,1
+1421,3 x bidireccional,13.8228,8295,S3,1
+1421,3 x a_estrella,7.6285,5340,S3,1
+1421,3 x alt,3.9918,1131,S3,1
+7588,una_pasada,0.5211,644,S1,1
+7588,3 x dijkstra,16.0162,11792,S1,1
+7588,3 x bidireccional,11.1294,7700,S1,1
+7588,3 x a_estrella,9.5245,6678,S1,1
+7588,3 x alt,1.7223,521,S1,1
+1391,una_pasada,0.4049,510,S3,1
+1391,3 x dijkstra,14.3633,12620,S3,1
+1391,3 x bidireccional,16.6861,11776,S3,1
+1391,3 x a_estrella,12.4448,8879,S3,1
+1391,3 x alt,3.2557,866,S3,1
+2785,una_pasada,1.7641,1635,S3,1
+2785,3 x dijkstra,13.884,11965,S3,1
+2785,3 x bidireccional,10.8721,7231,S3,1
+2785,3 x a_estrella,7.3111,5292,S3,1
+2785,3 x alt,2.5569,639,S3,1
+451,una_pasada,0.4858,599,S3,1
+451,3 x dijkstra,13.6581,11271,S3,1
+451,3 x bidireccional,15.0209,10286,S3,1
+451,3 x a_estrella,8.802,6356,S3,1
+451,3 x alt,3.7936,1077,S3,1
+9679,una_pasada,1.5775,1455,S1,1
+9679,3 x dijkstra,26.962,13083,S1,1
+9679,3 x bidireccional,19.1936,12300,S1,1
+9679,3 x a_estrella,13.4309,9556,S1,1
+9679,3 x alt,5.2702,854,S1,1
+2394,una_pasada,3.8999,2485,S3,1
+2394,3 x dijkstra,21.3544,15218,S3,1
+2394,3 x bidireccional,18.9501,12826,S3,1
+2394,3 x a_estrella,15.4437,10032,S3,1
+2394,3 x alt,6.134,1227,S3,1
+7771,una_pasada,0.9575,1062,S1,1
+7771,3 x dijkstra,18.1251,12449,S1,1
+7771,3 x bidireccional,17.4622,9164,S1,1
+7771,3 x a_estrella,11.863,7662,S1,1
+7771,3 x alt,2.7063,636,S1,1
+2554,una_pasada,1.7143,1453,S3,1
+2554,3 x dijkstra,12.3424,10472,S3,1
+2554,3 x bidireccional,7.8191,5301,S3,1
+2554,3 x a_estrella,4.2314,3125,S3,1
+2554,3 x alt,1.9459,500,S3,1
+8983,una_pasada,0.7833,889,S1,1
+8983,3 x dijkstra,16.3705,12275,S1,1
+8983,3 x bidireccional,20.9226,9785,S1,1
+8983,3 x a_estrella,10.2601,8078,S1,1
+8983,3 x alt,1.886,589,S1,1
+350,una_pasada,1.5987,1734,S3,1
+350,3 x dijkstra,13.902,14860,S3,1
+350,3 x bidireccional,21.5565,17013,S3,1
+350,3 x a_estrella,14.3909,11703,S3,1
+350,3 x alt,5.7774,1482,S3,1
+1683,una_pasada,1.2657,1355,S3,1
+1683,3 x dijkstra,14.8197,14056,S3,1
+1683,3 x bidireccional,17.3649,12856,S3,1
+1683,3 x a_estrella,17.3284,9844,S3,1
+1683,3 x alt,6.0032,1004,S3,1
+2281,una_pasada,1.7782,1036,S3,1
+2281,3 x dijkstra,13.0204,10297,S3,1
+2281,3 x bidireccional,7.7503,5427,S3,1
+2281,3 x a_estrella,4.1491,3038,S3,1
+2281,3 x alt,1.3117,417,S3,1
+3191,una_pasada,2.2637,1997,S2,1
+3191,3 x dijkstra,12.0798,10171,S2,1
+3191,3 x bidireccional,6.2314,4462,S2,1
+3191,3 x a_estrella,4.0084,2937,S2,1
+3191,3 x alt,1.357,387,S2,1
+458,una_pasada,0.5106,662,S3,1
+458,3 x dijkstra,14.3251,11906,S3,1
+458,3 x bidireccional,18.0789,11577,S3,1
+458,3 x a_estrella,10.5576,7879,S3,1
+458,3 x alt,5.0215,1440,S3,1
+3486,una_pasada,1.6784,1580,S3,1
+3486,3 x dijkstra,11.76,10214,S3,1
+3486,3 x bidireccional,6.984,4930,S3,1
+3486,3 x a_estrella,4.0988,3124,S3,1
+3486,3 x alt,1.5723,497,S3,1
+8211,una_pasada,0.0631,75,S1,1
+8211,3 x dijkstra,14.7062,10986,S1,1
+8211,3 x bidireccional,12.7673,7778,S1,1
+8211,3 x a_estrella,9.107,6143,S1,1
+8211,3 x alt,1.6956,425,S1,1
+9608,una_pasada,1.3897,1374,S1,1
+9608,3 x dijkstra,15.2379,12967,S1,1
+9608,3 x bidireccional,16.8214,11720,S1,1
+9608,3 x a_estrella,12.9529,9287,S1,1
+9608,3 x alt,3.2186,825,S1,1
+4249,una_pasada,0.9039,1008,S2,1
+4249,3 x dijkstra,11.5151,10029,S2,1
+4249,3 x bidireccional,6.0411,4226,S2,1
+4249,3 x a_estrella,4.7115,3332,S2,1
+4249,3 x alt,1.9632,520,S2,1
+6865,una_pasada,0.8839,940,S1,1
+6865,3 x dijkstra,14.0611,9829,S1,1
+6865,3 x bidireccional,8.4825,5211,S1,1
+6865,3 x a_estrella,5.8864,4055,S1,1
+6865,3 x alt,1.5115,368,S1,1
+997,una_pasada,1.1469,1218,S3,1
+997,3 x dijkstra,14.3394,11620,S3,1
+997,3 x bidireccional,13.3243,9030,S3,1
+997,3 x a_estrella,7.9018,5785,S3,1
+997,3 x alt,3.9416,1145,S3,1
+7506,una_pasada,0.2604,281,S1,1
+7506,3 x dijkstra,11.4954,9824,S1,1
+7506,3 x bidireccional,8.9034,5961,S1,1
+7506,3 x a_estrella,6.2855,4409,S1,1
+7506,3 x alt,1.192,307,S1,1
+8466,una_pasada,1.5504,1463,S1,1
+8466,3 x dijkstra,17.8223,13616,S1,1
+8466,3 x bidireccional,17.6579,12019,S1,1
+8466,3 x a_estrella,13.2372,9757,S1,1
+8466,3 x alt,7.1158,1128,S1,1
+8219,una_pasada,0.1141,68,S1,1
+8219,3 x dijkstra,12.8524,10436,S1,1
+8219,3 x bidireccional,10.1803,7030,S1,1
+8219,3 x a_estrella,7.684,5242,S1,1
+8219,3 x alt,1.4811,296,S1,1
+8713,una_pasada,0.2312,263,S1,1
+8713,3 x dijkstra,11.649,11029,S1,1
+8713,3 x bidireccional,10.1113,7661,S1,1
+8713,3 x a_estrella,7.7813,5929,S1,1
+8713,3 x alt,1.2356,365,S1,1
+8577,una_pasada,0.1812,216,S1,1
+8577,3 x dijkstra,12.2915,10969,S1,1
+8577,3 x bidireccional,9.9076,7637,S1,1
+8577,3 x a_estrella,7.9398,5928,S1,1
+8577,3 x alt,1.1463,359,S1,1
+306,una_pasada,0.6746,829,S3,1
+306,3 x dijkstra,11.0579,11262,S3,1
+306,3 x bidireccional,12.744,9688,S3,1
+306,3 x a_estrella,7.4017,5795,S3,1
+306,3 x alt,2.992,1003,S3,1
+3000,una_pasada,2.411,2073,S3,1
+3000,3 x dijkstra,13.842,12852,S3,1
+3000,3 x bidireccional,10.1152,7805,S3,1
+3000,3 x a_estrella,7.5517,6046,S3,1
+3000,3 x alt,2.1662,705,S3,1
+2454,una_pasada,2.6001,2614,S3,1
+2454,3 x dijkstra,19.5621,15001,S3,1
+2454,3 x bidireccional,16.039,11928,S3,1
+2454,3 x a_estrella,11.5,9446,S3,1
+2454,3 x alt,4.2882,1133,S3,1
+2319,una_pasada,2.15,2300,S3,1
+2319,3 x dijkstra,27.0847,15102,S3,1
+2319,3 x bidireccional,30.947,12776,S3,1
+2319,3 x a_estrella,15.207,10043,S3,1
+2319,3 x alt,6.796,1217,S3,1
+1971,una_pasada,3.3025,1936,S3,1
+1971,3 x dijkstra,22.168,14817,S3,1
+1971,3 x bidireccional,21.1237,13049,S3,1
+1971,3 x a_estrella,14.5967,10149,S3,1
+1971,3 x alt,5.5735,1228,S3,1
+1011,una_pasada,0.5979,735,S3,1
+1011,3 x dijkstra,13.0316,10999,S3,1
+1011,3 x bidireccional,12.0209,8079,S3,1
+1011,3 x a_estrella,6.8895,4818,S3,1
+1011,3 x alt,2.7946,786,S3,1
+8492,una_pasada,0.2786,345,S1,1
+8492,3 x dijkstra,13.7141,11584,S1,1
+8492,3 x bidireccional,12.2107,8665,S1,1
+8492,3 x a_estrella,10.3748,7032,S1,1
+8492,3 x alt,1.4526,403,S1,1
+9100,una_pasada,1.74,1704,S1,1
+9100,3 x dijkstra,16.2782,13943,S1,1
+9100,3 x bidireccional,19.3347,13221,S1,1
+9100,3 x a_estrella,14.3679,10411,S1,1
+9100,3 x alt,5.4661,1228,S1,1
+1738,una_pasada,0.4241,513,S3,1
+1738,3 x dijkstra,17.7376,12126,S3,1
+1738,3 x bidireccional,16.7265,9998,S3,1
+1738,3 x a_estrella,10.2458,7224,S3,1
+1738,3 x alt,2.8739,697,S3,1
+930,una_pasada,1.1152,1219,S3,1
+930,3 x dijkstra,13.441,11608,S3,1
+930,3 x bidireccional,13.0038,8739,S3,1
+930,3 x a_estrella,7.9351,5721,S3,1
+930,3 x alt,3.5186,1025,S3,1
+3134,una_pasada,1.5781,1508,S3,1
+3134,3 x dijkstra,13.4816,11367,S3,1
+3134,3 x bidireccional,8.1977,5803,S3,1
+3134,3 x a_estrella,5.4837,4101,S3,1
+3134,3 x alt,1.8713,601,S3,1
+691,una_pasada,1.3871,1434,S3,1
+691,3 x dijkstra,18.1423,14088,S3,1
+691,3 x bidireccional,22.0756,14423,S3,1
+691,3 x a_estrella,14.9528,10879,S3,1
+691,3 x alt,5.1039,1234,S3,1
+8318,una_pasada,1.5505,1468,S1,1
+8318,3 x dijkstra,19.5653,14138,S1,1
+8318,3 x bidireccional,18.1666,11036,S1,1
+8318,3 x a_estrella,15.7108,10010,S1,1
+8318,3 x alt,5.2387,1352,S1,1
+9203,una_pasada,0.613,740,S1,1
+9203,3 x dijkstra,15.1774,11780,S1,1
+9203,3 x bidireccional,12.2941,8695,S1,1
+9203,3 x a_estrella,11.3034,7129,S1,1
+9203,3 x alt,1.5041,499,S1,1
+1038,una_pasada,0.8022,980,S3,1
+1038,3 x dijkstra,12.6236,13335,S3,1
+1038,3 x bidireccional,16.1742,12978,S3,1
+1038,3 x a_estrella,11.784,9801,S3,1
+1038,3 x alt,3.287,1073,S3,1
+5334,una_pasada,0.3604,487,S2,1
+5334,3 x dijkstra,13.4282,13507,S2,1
+5334,3 x bidireccional,8.974,7205,S2,1
+5334,3 x a_estrella,8.0418,6658,S2,1
+5334,3 x alt,2.7495,973,S2,1
+9930,una_pasada,1.0706,1243,S1,1
+9930,3 x dijkstra,14.9129,13210,S1,1
+9930,3 x bidireccional,14.0746,10682,S1,1
+9930,3 x a_estrella,12.0281,9197,S1,1
+9930,3 x alt,3.408,1041,S1,1
+3267,una_pasada,1.6961,1705,S3,1
+3267,3 x dijkstra,10.5235,9678,S3,1
+3267,3 x bidireccional,5.3053,4163,S3,1
+3267,3 x a_estrella,3.2605,2623,S3,1
+3267,3 x alt,0.9406,343,S3,1
+7411,una_pasada,1.6807,1720,S1,1
+7411,3 x dijkstra,14.9463,13106,S1,1
+7411,3 x bidireccional,13.8017,9532,S1,1
+7411,3 x a_estrella,14.0867,7973,S1,1
+7411,3 x alt,4.1631,1005,S1,1
+8737,una_pasada,1.4232,1369,S1,1
+8737,3 x dijkstra,18.0743,13764,S1,1
+8737,3 x bidireccional,16.3803,10709,S1,1
+8737,3 x a_estrella,14.3172,9610,S1,1
+8737,3 x alt,4.0598,1111,S1,1
+8319,una_pasada,1.5484,1468,S1,1
+8319,3 x dijkstra,17.4984,14138,S1,1
+8319,3 x bidireccional,16.0863,11144,S1,1
+8319,3 x a_estrella,14.4394,10010,S1,1
+8319,3 x alt,5.3205,1353,S1,1
+8572,una_pasada,0.1241,148,S1,1
+8572,3 x dijkstra,16.311,10944,S1,1
+8572,3 x bidireccional,13.0874,7631,S1,1
+8572,3 x a_estrella,9.8079,5920,S1,1
+8572,3 x alt,1.4451,341,S1,1
+9167,una_pasada,1.4504,1412,S1,1
+9167,3 x dijkstra,17.5144,13777,S1,1
+9167,3 x bidireccional,16.4747,11415,S1,1
+9167,3 x a_estrella,14.4987,9856,S1,1
+9167,3 x alt,5.0898,1367,S1,1
+7332,una_pasada,2.3007,1965,S1,1
+7332,3 x dijkstra,28.4898,13418,S1,1
+7332,3 x bidireccional,15.0564,10237,S1,1
+7332,3 x a_estrella,11.455,8292,S1,1
+7332,3 x alt,5.2209,1279,S1,1
+6826,una_pasada,3.3291,2849,S2,1
+6826,3 x dijkstra,17.7888,14767,S2,1
+6826,3 x bidireccional,14.175,9804,S2,1
+6826,3 x a_estrella,13.7895,9073,S2,1
+6826,3 x alt,6.9423,1746,S2,1
+6428,una_pasada,1.7624,1638,S2,1
+6428,3 x dijkstra,16.7353,11731,S2,1
+6428,3 x bidireccional,10.4057,6519,S2,1
+6428,3 x a_estrella,7.56,5467,S2,1
+6428,3 x alt,2.5314,630,S2,1
+5177,una_pasada,0.0109,10,S2,1
+5177,3 x dijkstra,12.2638,9967,S2,1
+5177,3 x bidireccional,5.9435,4118,S2,1
+5177,3 x a_estrella,5.003,3496,S2,1
+5177,3 x alt,1.1466,346,S2,1
+3942,una_pasada,2.9214,2583,S2,1
+3942,3 x dijkstra,18.9395,15699,S2,1
+3942,3 x bidireccional,14.8863,10071,S2,1
+3942,3 x a_estrella,11.6154,8289,S2,1
+3942,3 x alt,5.6041,1377,S2,1
+1198,una_pasada,1.3814,1377,S3,1
+1198,3 x dijkstra,18.7289,14419,S3,1
+1198,3 x bidireccional,21.9256,14823,S3,1
+1198,3 x a_estrella,14.9701,10632,S3,1
+1198,3 x alt,6.8192,1340,S3,1
+4960,una_pasada,0.2312,205,S2,1
+4960,3 x dijkstra,12.2772,9237,S2,1
+4960,3 x bidireccional,4.8882,3478,S2,1
+4960,3 x a_estrella,4.1262,2725,S2,1
+4960,3 x alt,0.7347,228,S2,1
+2530,una_pasada,2.7823,2809,S3,1
+2530,3 x dijkstra,17.1292,15338,S3,1
+2530,3 x bidireccional,17.4989,12630,S3,1
+2530,3 x a_estrella,12.5056,9872,S3,1
+2530,3 x alt,4.5199,1296,S3,1
+2342,una_pasada,1.4041,1485,S3,1
+2342,3 x dijkstra,11.8945,11456,S3,1
+2342,3 x bidireccional,9.3825,7050,S3,1
+2342,3 x a_estrella,5.9722,4675,S3,1
+2342,3 x alt,2.5718,899,S3,1
+2248,una_pasada,2.0802,2148,S3,1
+2248,3 x dijkstra,14.8964,14958,S3,1
+2248,3 x bidireccional,15.9158,12488,S3,1
+2248,3 x a_estrella,12.1864,9866,S3,1
+2248,3 x alt,4.0157,1081,S3,1
+3597,una_pasada,7.331,2472,S2,1
+3597,3 x dijkstra,15.7285,12129,S2,1
+3597,3 x bidireccional,12.469,7248,S2,1
+3597,3 x a_estrella,7.6811,5373,S2,1
+3597,3 x alt,6.0862,1552,S2,1
+6525,una_pasada,1.7823,1199,S2,1
+6525,3 x dijkstra,16.6288,11578,S2,1
+6525,3 x bidireccional,10.0316,6223,S2,1
+6525,3 x a_estrella,8.3351,5698,S2,1
+6525,3 x alt,2.9878,765,S2,1
+2667,una_pasada,3.4241,2972,S3,1
+2667,3 x dijkstra,30.2772,15279,S3,1
+2667,3 x bidireccional,18.8986,12080,S3,1
+2667,3 x a_estrella,13.3233,9534,S3,1
+2667,3 x alt,4.9841,1212,S3,1
+2645,una_pasada,1.3987,1370,S3,1
+2645,3 x dijkstra,14.1586,11899,S3,1
+2645,3 x bidireccional,11.0869,7473,S3,1
+2645,3 x a_estrella,7.4006,5394,S3,1
+2645,3 x alt,2.4029,641,S3,1
+8447,una_pasada,0.705,829,S1,1
+8447,3 x dijkstra,16.0381,12589,S1,1
+8447,3 x bidireccional,15.1218,9066,S1,1
+8447,3 x a_estrella,13.6868,8062,S1,1
+8447,3 x alt,2.4191,653,S1,1
+5556,una_pasada,1.5103,1446,S2,1
+5556,3 x dijkstra,19.0628,15252,S2,1
+5556,3 x bidireccional,13.2343,9231,S2,1
+5556,3 x a_estrella,11.4727,8294,S2,1
+5556,3 x alt,6.4516,1782,S2,1
+3207,una_pasada,2.1859,2031,S3,1
+3207,3 x dijkstra,13.4537,11662,S3,1
+3207,3 x bidireccional,8.3643,6035,S3,1
+3207,3 x a_estrella,6.008,4476,S3,1
+3207,3 x alt,2.0616,604,S3,1
